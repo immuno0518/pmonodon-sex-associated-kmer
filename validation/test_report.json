@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "tests_run": 16,
+  "failures": 0,
+  "errors": 0,
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "biopython": "1.88",
+    "pyahocorasick": "2.3.1",
+    "psutil": "7.2.2",
+    "matplotlib": "3.11.2"
+  },
+  "fixture": "Artificial sequences, generated canonical frequencies, mock annotation and simple genotype records; no study data",
+  "external_tools_executed": [],
+  "study_full_rerun": false,
+  "genmap_frequency_fixture": "Independent Python enumeration, not a GenMap execution",
+  "results": [
+    "test_synthetic_200_individual_correlation_stage (__main__.LocalCorrelationChecks.test_synthetic_200_individual_correlation_stage) ... ok",
+    "test_aggregate_source_denominators (__main__.PackagingChecks.test_aggregate_source_denominators) ... ok",
+    "test_all_python_parse (__main__.PackagingChecks.test_all_python_parse) ... ok",
+    "test_input_manifest_rejects_bad_sex (__main__.PackagingChecks.test_input_manifest_rejects_bad_sex) ... ok",
+    "test_source_hash_map_matches_files (__main__.PackagingChecks.test_source_hash_map_matches_files) ... ok",
+    "test_stage_dispatcher_creates_separate_run_directories (__main__.PackagingChecks.test_stage_dispatcher_creates_separate_run_directories) ... ok",
+    "test_01_full_exact_mapping_and_zero_one_based_edges (__main__.ReferenceAndAnnotationChecks.test_01_full_exact_mapping_and_zero_one_based_edges) ... ok",
+    "test_02_unique_opportunity_consumer (__main__.ReferenceAndAnnotationChecks.test_02_unique_opportunity_consumer) ... ok",
+    "test_03_annotation_intersection_stage (__main__.ReferenceAndAnnotationChecks.test_03_annotation_intersection_stage) ... ok",
+    "test_binomial_interval_endpoints (__main__.StatisticalChecks.test_binomial_interval_endpoints) ... ok",
+    "test_exact_2x3_matches_2x2_when_third_column_empty (__main__.StatisticalChecks.test_exact_2x3_matches_2x2_when_third_column_empty) ... ok",
+    "test_fisher_against_integer_enumeration (__main__.StatisticalChecks.test_fisher_against_integer_enumeration) ... ok",
+    "test_recorded_genotype_mask (__main__.StatisticalChecks.test_recorded_genotype_mask) ... ok",
+    "test_single_variant_consequence_and_splice (__main__.StatisticalChecks.test_single_variant_consequence_and_splice) ... ok",
+    "test_sorted_zero_fill_and_unexpected_key (__main__.StatisticalChecks.test_sorted_zero_fill_and_unexpected_key) ... ok",
+    "test_source_self_checks (__main__.StatisticalChecks.test_source_self_checks) ... ok",
+    "",
+    "----------------------------------------------------------------------",
+    "Ran 16 tests in 0.410s",
+    "",
+    "OK"
+  ]
+}

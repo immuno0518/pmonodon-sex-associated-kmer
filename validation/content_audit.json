@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "scope": "Candidate file names and UTF-8 contents; allowlisted file types and absence of runtime/input directories",
+  "checked_rule_groups": [
+    "excluded_product_mentions",
+    "windows_private_absolute_path",
+    "unix_private_root",
+    "private_chromosome_key",
+    "secret_material",
+    "credential_assignment"
+  ],
+  "findings": [],
+  "real_individual_sex_tables_included": false,
+  "original_reads_or_unpublished_reference_or_gff_included": false,
+  "third_party_executables_or_dependencies_included": false,
+  "individual_data_exclusion": "Only three unchanged aggregate Figure 3 A-C tables; no study individual identifiers or sex-mapping table",
+  "limitations": "Pattern checks complement the explicit file allowlist and source review; they are not a guarantee against every possible secret format."
+}

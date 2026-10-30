@@ -1,0 +1,51 @@
+{
+  "qc_record": [
+    {
+      "name": "KMC",
+      "version": "3.2.4",
+      "archive_sha256": "c503085f68d9f5881e4cba010fceba6cc18ab91ea20b65558a43229661bc2375",
+      "source": "https://github.com/refresh-bio/KMC/releases/tag/v3.2.4"
+    },
+    {
+      "name": "cutadapt",
+      "version": "4.4"
+    },
+    {
+      "name": "dnaio",
+      "version": "1.2.2"
+    },
+    {
+      "name": "isal",
+      "version": "1.7.2"
+    },
+    {
+      "name": "xopen",
+      "version": "2.0.2"
+    },
+    {
+      "name": "zlib-ng",
+      "version": "0.5.1"
+    }
+  ],
+  "qc_record_source_sha256": "fcffb7a00485558d02e7b6a9a54039b5637ed3cb5d67a608ef64968e2b53b4a2",
+  "association_record": {
+    "python": "3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]",
+    "numpy": "1.24.4",
+    "scipy": "1.10.1",
+    "script_sha256": "f048e79d6ceebba0803109938675ca129933a97b652045a917a56e5b18aa3c62",
+    "tests": [
+      "Fisher probabilities independently checked by exact integer hypergeometric enumeration on 8 diverse contingency tables",
+      "KMC set_counts/union compared with independent Python count>=2 presence aggregation",
+      "Original toy input database hashes unchanged after transformation tests"
+    ],
+    "input_presence_threshold": 2,
+    "multiplicity_tests": 7178221,
+    "alpha": 0.05
+  },
+  "association_record_source_sha256": "63038832545c49468e3b0cadc5cda195bcecc48dd136a148245bdbd45c0e2b06",
+  "recovered_installed_metadata": {
+    "pyahocorasick": "2.1.0",
+    "biopython": "1.83"
+  },
+  "metadata_evidence": "retained source dependency dist-info directory names; separate per-run invocation not recovered"
+}

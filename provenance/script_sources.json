@@ -1,0 +1,177 @@
+[
+  {
+    "released_file": "scripts/run_qc_kmc.py",
+    "source_id": "MSI-handoff/work/run_qc_kmc.py",
+    "source_sha256": "97caae57682a953be01046c096baf3439d4a7eb37a43413fd5c594bd61f9ee5d",
+    "released_sha256": "258e3d46b486f4afea8f622d648d09b70807b7a07aec709b29e13796c26cd80e",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/screen_discovery_kmers.py",
+    "source_id": "MSI-handoff/work/screen_discovery_kmers.py",
+    "source_sha256": "828826be53fd6cf7e61dea633c6cef7b853ab7007b4618330111db259b14f23d",
+    "released_sha256": "d7427c85bf9c110b04760e230250b468331df94cc6ca0248abc0daa7e646019d",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/validate_heldout_kmers.py",
+    "source_id": "MSI-handoff/work/validate_heldout_kmers.py",
+    "source_sha256": "7a245ee6d4fa2f87423b2b21360229a82f850d0c31cf40214c2fab246f535d89",
+    "released_sha256": "0cfb29f94a835f09430529d8266ac062bd37f4be0951b7070650391e31a12118",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/analyze_heldout_kmers.py",
+    "source_id": "MSI-handoff/work/analyze_heldout_kmers.py",
+    "source_sha256": "f048e79d6ceebba0803109938675ca129933a97b652045a917a56e5b18aa3c62",
+    "released_sha256": "33c846a860dd8865098d5bfe3801c4777d2933c2518bbb8337b43ec9c867ad24",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/map_heldout_kmers.py",
+    "source_id": "MSI-handoff/work/map_heldout_kmers.py",
+    "source_sha256": "640361edb473e4e1f65092d93629f3aa165ab9586b35dc3a81b130775152d59b",
+    "released_sha256": "71d648a5f5a3591451dafb002bc0d7ffb70feddf853353131ebed1765c67796c",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/server_reference_mappability.py",
+    "source_id": "MSI-handoff/work/server_reference_mappability.py",
+    "source_sha256": "76ffa04d038b45caab0ad9b9e5395d772dd6d05af48f808d5ae00ec24f5c669f",
+    "released_sha256": "d4905a9dee3ee91e48327c5acef0ca04eac9100d1a440b1775822570d32b43be",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/test_reference_genmap.py",
+    "source_id": "MSI-handoff/work/test_reference_genmap.py",
+    "source_sha256": "2288552f6e71da1389d64a26f934fa106417938e14b68ea3c92d2dd072d3b704",
+    "released_sha256": "2ddce10d547292817e49a167c7b47c1bbc4b198697dd8126f38c2deb5982813a",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/analyze_reference_mappability.py",
+    "source_id": "MSI-handoff/work/analyze_reference_mappability.py",
+    "source_sha256": "27b57c9f6b14140f43916fcf8d5a9bc336d1ff41634435f61fcd79c8f740989f",
+    "released_sha256": "04681d2beda0addf7b4c05e88d8da6e3a530ed7d8011a9ff23b4e04d90e67c9d",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/audit_existing_Chr19_depth.py",
+    "source_id": "MSI-handoff/work/audit_existing_Chr19_depth.py",
+    "source_sha256": "dd7f67ad9397e523e0fd7f0d441350f087b01462c5d8da2026c09fc5330f96fc",
+    "released_sha256": "9656d5c8772682ed28873b2e7f218553d12e981486bd8cb06e0771726c23e141",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/analyze_regional_kmer_sensitivity.py",
+    "source_id": "MSI-handoff/work/analyze_regional_kmer_sensitivity.py",
+    "source_sha256": "316b09078d0916f402e135c4b8196c93196fd25a5619fa129bc24d9810a95935",
+    "released_sha256": "7ddcdb292063f4ed9b3737a3b5d0356c60714a4aaafa27b5795bdfc91091924f",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/validate_and_plot_regional_sensitivity.py",
+    "source_id": "MSI-handoff/work/validate_and_plot_regional_sensitivity.py",
+    "source_sha256": "b7ad88c2239b3461bd27d4fede2c87488b7488246d8e6ac616774853d22deeba",
+    "released_sha256": "c6203ba2afe3a6d9d4a4e08c1b556bc06668f0f44679fec82d024630fe622910",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/create_kmer_manuscript_figure.py",
+    "source_id": "MSI-handoff/work/create_kmer_manuscript_figure.py",
+    "source_sha256": "7dc4baf01e25af26dfbf01176c83b9d83699b25ea670ffc648aa11f69accbce7",
+    "released_sha256": "fbdcab2bebc2bab7c57d2cb92f7140f5c582131f9f96f45f106a8c7bd4c33163",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/revise_kmer_manuscript_figure.py",
+    "source_id": "MSI-handoff/work/revise_kmer_manuscript_figure.py",
+    "source_sha256": "ea7859df4ba1d6d35c1f3e9ed6b05eef56bd8aea1d993ac950f011d620496f72",
+    "released_sha256": "2966fc333509118d92e48434dc679a837153bc2f8cbe72a5e39ff9feb604f4f0",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/extract_discovery_figure_panels.py",
+    "source_id": "MSI-handoff/work/extract_discovery_figure_panels.py",
+    "source_sha256": "2c17a7f920b2f98ce330ecfad1ca3aec2a5daf0ef34998f316a6a0a4411a60f8",
+    "released_sha256": "b66a1ce13a6d5833f0858292bc1e96af85152284cc80c51fbbf7996adebeee57",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/create_all200_kmer_figure.py",
+    "source_id": "MSI-handoff/work/create_all200_kmer_figure.py",
+    "source_sha256": "910bdb456a7f999a51fff1f14ec5ac277ff6b8a18b9f2e65d63b62b2e192383f",
+    "released_sha256": "dc8f30752a0f10e86bfaef5f6c741b617f569ed870d0f0ef8f36129c51effb21",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/validate_all200_figure.py",
+    "source_id": "MSI-handoff/work/validate_all200_figure.py",
+    "source_sha256": "8a8ab3328b03e1528cc4756a502cb4dde8e4c2b50104ef32e230300b437a3da2",
+    "released_sha256": "46b06174a7618af271ed391f5944606c848e6eae5c8d6a90b93976ac0b241a09",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/reviewer_genomics_common.py",
+    "source_id": "MSI-handoff/work/reviewer_genomics_common.py",
+    "source_sha256": "57eb3540fe36e19e5d8a2483390d8ea152262974c007c364475da40659711704",
+    "released_sha256": "15c225fa290c80cb54b4b5002be0346ea9cf6d84457a069f9a69da5c4b97fb61",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/analyze_reviewer_local_ld.py",
+    "source_id": "MSI-handoff/work/analyze_reviewer_local_ld.py",
+    "source_sha256": "4bc3b1a969b7a68ac66f94c8237c855121ab57e99f2e6f606dd9094bbaec581d",
+    "released_sha256": "ef06c1b7203f5bfa0823ced95f9467aece7905dbbc9de8ca04cfaa764f12c31c",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/analyze_reviewer_genes.py",
+    "source_id": "MSI-handoff/work/analyze_reviewer_genes.py",
+    "source_sha256": "36f4a36bb189ee649f74c71b699d284d5ff332c1901aef304bcca740d52fc0bb",
+    "released_sha256": "d46a6d00b35b2e82fa1a483bda2c9363ec488cb2b3ff092efc5c2acdb643893f",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/finalize_reviewer_statistics.py",
+    "source_id": "MSI-handoff/work/finalize_reviewer_statistics.py",
+    "source_sha256": "59f6cb005bc0991b579f6f812944bc3bef243344791f331d89942bae6711240b",
+    "released_sha256": "cca396b7759f5fe77dfeeb18e03a54a22450f63341c68243f7bf2bdfb4889ed2",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/plot_reviewer_local_ld.py",
+    "source_id": "MSI-handoff/work/plot_reviewer_local_ld.py",
+    "source_sha256": "035d3421b4749030d9c93cc889e16953ba5bc24e371ad4d0523c32fcbe0d870c",
+    "released_sha256": "c5282c0e380d1dd5b9d11f12ea399703629a77156f1d1e131245a3de5d12bb07",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "scripts/secondary_gene_intersections.py",
+    "source_id": "R2-integration/audit_inputs.py:bounded-annotation-section",
+    "source_sha256": "b15482f551a6c0bd25459a5f86124a96f5c2165244d1987e0e3662d73ca6445a",
+    "released_sha256": "62eb2ca53a407095d2d50d8bdf0d680093867958fbda56b638e88a902bd46b42",
+    "change_record": "docs/ADAPTATIONS.md"
+  },
+  {
+    "released_file": "source_data/Figure3_panel_A_chromosome_density.tsv",
+    "source_id": "Kmer-main-revision/05_Tables_and_Source_Data/Figure3_panel_A_chromosome_density.tsv",
+    "source_sha256": "849a246725ffadd359534da4e847cbdb68b97eb66da26f172e7fc3b801b8cbea",
+    "released_sha256": "849a246725ffadd359534da4e847cbdb68b97eb66da26f172e7fc3b801b8cbea",
+    "change_record": "byte-identical aggregate table; no individual identifiers"
+  },
+  {
+    "released_file": "source_data/Figure3_panel_B_whole_sequence_profiles.tsv",
+    "source_id": "Kmer-main-revision/05_Tables_and_Source_Data/Figure3_panel_B_whole_sequence_profiles.tsv",
+    "source_sha256": "d0fdcd4ff7cb1c6d8a23237060da4ef2e5b3416063cb73ff960991853c7bd620",
+    "released_sha256": "d0fdcd4ff7cb1c6d8a23237060da4ef2e5b3416063cb73ff960991853c7bd620",
+    "change_record": "byte-identical aggregate table; no individual identifiers"
+  },
+  {
+    "released_file": "source_data/Figure3_panel_C_Chr19_10kb_density.tsv",
+    "source_id": "Kmer-main-revision/05_Tables_and_Source_Data/Figure3_panel_C_Chr19_10kb_density.tsv",
+    "source_sha256": "d468e00b27a31384ee906ef141853f7ecd8aacb944c4c3d7d958a07e74f73042",
+    "released_sha256": "d468e00b27a31384ee906ef141853f7ecd8aacb944c4c3d7d958a07e74f73042",
+    "change_record": "byte-identical aggregate table; no individual identifiers"
+  }
+]

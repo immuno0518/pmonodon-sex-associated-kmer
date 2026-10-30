@@ -1,0 +1,182 @@
+[
+  {
+    "file": ".gitignore",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "config/example.json",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "docs/ADAPTATIONS.md",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "docs/COMMANDS.md",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "docs/COVERAGE.md",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "docs/ENVIRONMENT.md",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "docs/INPUTS.md",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "docs/RELEASE_STATUS.md",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "examples/sample_manifest.header.tsv",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "NOTICE.md",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "provenance/script_sources.json",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "provenance/software_records.json",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "README.md",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "requirements-recorded.txt",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "requirements-smoke.txt",
+    "role": "release documentation or metadata"
+  },
+  {
+    "file": "scripts/analyze_heldout_kmers.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/analyze_reference_mappability.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/analyze_regional_kmer_sensitivity.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/analyze_reviewer_genes.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/analyze_reviewer_local_ld.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/audit_existing_Chr19_depth.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/create_all200_kmer_figure.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/create_kmer_manuscript_figure.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/extract_discovery_figure_panels.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/finalize_reviewer_statistics.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/map_heldout_kmers.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/plot_reviewer_local_ld.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/prepare_run.py",
+    "role": "new release utility; not an original study script"
+  },
+  {
+    "file": "scripts/release_config.py",
+    "role": "new release utility; not an original study script"
+  },
+  {
+    "file": "scripts/reviewer_genomics_common.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/revise_kmer_manuscript_figure.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/run.py",
+    "role": "new release utility; not an original study script"
+  },
+  {
+    "file": "scripts/run_qc_kmc.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/screen_discovery_kmers.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/secondary_gene_intersections.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/server_reference_mappability.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/test_reference_genmap.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/validate_all200_figure.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/validate_and_plot_regional_sensitivity.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "scripts/validate_heldout_kmers.py",
+    "role": "derived recorded analysis script"
+  },
+  {
+    "file": "source_data/Figure3_panel_A_chromosome_density.tsv",
+    "role": "unchanged aggregate revision source table"
+  },
+  {
+    "file": "source_data/Figure3_panel_B_whole_sequence_profiles.tsv",
+    "role": "unchanged aggregate revision source table"
+  },
+  {
+    "file": "source_data/Figure3_panel_C_Chr19_10kb_density.tsv",
+    "role": "unchanged aggregate revision source table"
+  },
+  {
+    "file": "tests/smoke.py",
+    "role": "new release utility; not an original study script"
+  },
+  {
+    "file": "validation/test_report.json",
+    "role": "candidate verification record"
+  }
+]

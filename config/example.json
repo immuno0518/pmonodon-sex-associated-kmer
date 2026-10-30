@@ -1,0 +1,31 @@
+{
+  "run_root": "run",
+  "tools": {
+    "kmc": "kmc",
+    "kmc_tools": "kmc_tools",
+    "genmap": "genmap"
+  },
+  "reference_sequences": 93,
+  "reference_bp": 2111532351,
+  "inputs": {
+    "discovery_manifest": "inputs/discovery.tsv",
+    "heldout_manifest": "inputs/heldout.tsv",
+    "all_samples_manifest": "inputs/all_samples.tsv",
+    "reference": "inputs/reference.fasta",
+    "gff": "inputs/annotation.gff3",
+    "variant_source_directory": "inputs/variants",
+    "previous_CDS_directory": "inputs/prior_CDS",
+    "phased_variants": "inputs/phased_CDS_variants.tsv",
+    "depth_matrix": "inputs/depth_10kb.tsv",
+    "depth_scope": "inputs/depth_evidence_scope.md",
+    "functional_annotations": "inputs/functional_annotations.tsv"
+  },
+  "focal_gene_ids": {
+    "gene24": "REPLACE_WITH_GFF_GENE24_ID",
+    "gene26": "REPLACE_WITH_GFF_GENE26_ID"
+  },
+  "annotation_focal_ids": [
+    "REPLACE_WITH_GFF_FOCAL_GENE_ID"
+  ],
+  "binary_checksums": {}
+}
