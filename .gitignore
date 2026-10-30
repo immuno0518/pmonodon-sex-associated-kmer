@@ -1,0 +1,8 @@
+run/
+inputs/
+config/local.json
+__pycache__/
+*.pyc
+*.partial
+.env
+.env.*
