@@ -1,7 +1,11 @@
 # Release status
 
-This is a local candidate. Rights holder, institutional/contractual permissions, a software licence, repository owner/name and actual accessible release address remain unconfirmed. No DOI, repository address, author identity or publication status has been invented. The manuscript and reviewer response are not modified by this package.
+The rights holder confirmed ownership and authorized public availability on 2026-10-31. The decision was to make the supplied code available without granting an open-source licence. No MIT or other open-source licence has been added.
 
-After authorization, inspect only the candidate's contents for upload; do not upload parent folders, private run outputs, ignored input/configuration files, internal audit material or installed dependencies. Select the licence after rights confirmation, publish a verified version, and then record the actual URL and release identifier in the manuscript and response. A local candidate filename is not a public-access statement.
+Repository: https://github.com/immuno0518/pmonodon-sex-associated-kmer
+
+This repository contains the documented subset of analysis scripts and aggregate source tables described in COVERAGE.md. Original read counting and full-reference mapping have not been rerun during preparation of this repository. The unpublished reference assembly, GFF, raw reads, individual sample-sex mappings, private chromosome-name key and TE analyses are excluded. Required external inputs remain necessary for the reference-dependent steps. The separate SDR-restricted matched-pair generating script and other listed custom-analysis gaps have not been represented as recovered.
+
+Repository visibility and any separately tagged version are controlled in GitHub. Confirm unauthenticated access before stating public availability in a manuscript or reviewer response. This package does not modify or submit the manuscript, response letters or supplementary files.
 
 Preparation of public-facing technical documentation does not resolve the journal's separate disclosure requirements for assistance used in writing or programming. The authors must address any applicable disclosure accurately; no authorship or manual development history is asserted here.
